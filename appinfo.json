@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "aidanorlando@aol.com",
+    "longName": "http requests",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/mvboli.ttf",
+                "name": "font_example_boli_20",
+                "trackingAdjust": 2,
+                "type": "font"
+            },
+            {
+                "file": "fonts/mvboli.ttf",
+                "name": "font_example_boli_38",
+                "trackingAdjust": 2,
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "http requests",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0d722179-b8db-4804-a898-3cacc29e5f8a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
